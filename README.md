@@ -12,6 +12,9 @@ Este projeto foi desenvolvido principalmente utilizando JavaScript, aproveitando
 
 Para experimentar o relógio virtual, basta clonar este repositório em sua máquina local e abrir o arquivo `index.html` em seu navegador da web favorito. O relógio deve começar a funcionar imediatamente, mostrando as horas, minutos e segundos atuais, enquanto a cor de fundo se adapta dinamicamente ao tempo do dia.
 
+## Site
+Aqui está o site, espero que goste! https://664134cb8036311ec1d7189e--sweet-nasturtium-c45448.netlify.app
+
 ## Demonstração Visual
 
 Aqui está uma prévia do que você pode esperar deste projeto:
